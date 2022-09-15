@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <p style="font-weight: 700;">@NikolajRask</p>
+- 👋 Hi, I’m @NikolajRask
 - 👀 I’m interested in 
   - Javascript
   - Python
