@@ -1,6 +1,6 @@
 <b><h1>Hi there, I'm Nikolaj 👋 </h1></b>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolajrask&label=Profile%20views&color=0e75b6&style=flat" alt="nikolajrask" /> </p>
 
 ## I'm a Web Developer, Programmer and High School Student
 
@@ -43,3 +43,12 @@
 * <a style="color: #24c71c" href="https://nikolajraskcasino.netlify.app/games/roulette.html">🟩 Casino Roulette Website (HTML + JavaScript)</a>
 * <a style="color: #f79616">🟧 Advanced Notes App (Node.js + Electron)</a>
 * <a style="color: #f79616">🟧 Personal Website (Vue.js + Tailwind CSS)</a>
+  
+---
+<h3 align="center">My Github Stats</h3>
+
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolajrask&show_icons=true&locale=en" alt="nikolajrask" /></p>
