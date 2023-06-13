@@ -45,10 +45,16 @@
 * <a style="color: #f79616">🟧 Personal Website (Vue.js + Tailwind CSS)</a>
   
 ---
+  
+<h3 align="center">My Most Used Languages</h3>
+  
+  
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolajrask&show_icons=true&locale=en&layout=compact" alt="nikolajrask" /></p>
+<br>
+  <br>
+
+---
+  
 <h3 align="center">My Github Stats</h3>
 
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolajrask&show_icons=true&locale=en" alt="nikolajrask" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nikolajrask&show_icons=true&locale=en" alt="nikolajrask" /></p>
