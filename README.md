@@ -36,7 +36,6 @@
 <br />
 <br />
 
-
 ---
 
 ### Current And Recent Projects 🟧 <a style="color: #f79616;text-decoration:none;">Ongoing<a> 🟩 <a style="color: #24c71c;text-decoration:none;">Finished</a> 
