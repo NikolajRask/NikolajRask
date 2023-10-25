@@ -4,9 +4,8 @@
 
 ## I'm a Web Developer, Programmer and High School Student
 
-- 🔭 I'm currently working on a Advanced Notes Apps and my personal website
-- 🌱 I’m currently learning different JavaScript frameworks
-- 👯 I’m looking to collaborate with other developers
+- 🔭 I'm currently working on a my portfolio website and a native app
+- 🌱 I’m currently learning different React Native and Auth0
 - 🥅 2023 Goals: Create a udemy course 
 - ⚡ Fun fact: I prefer making a project with no libaries or frameworks making everything from scrath. I am also trying to challenge myself by using more different frameworks and libaries
 
