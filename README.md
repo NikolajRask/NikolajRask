@@ -7,9 +7,7 @@
 
 - 🔭 I'm currently working on a my portfolio website and a native app
 - 🌱 I’m currently learning different React Native and Auth0
-- 🥅 2023 Goals: Create a udemy course 
-- ⚡ Fun fact: I prefer making a project with no libaries or frameworks making everything from scrath. I am also trying to challenge myself by using more different frameworks and libaries
-
+- 🔗 I'm building https://liinks.io
 ### Connect with me:
 <a href="https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSHvbQzfbjHqSfWktXxCSsGTzQbFJDQBjTzXZvGZnDBSwXdzwchSRkgMGDnNkjZvbxzLhpss"><img align="left" alt="Visual Studio Code" width="26px" src="https://static-00.iconduck.com/assets.00/gmail-icon-256x256-g32f2css.png" style="padding-right:10px;" /></a>
 <a href="https://www.messenger.com/t/100036477218540/"><img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/640px-Facebook_Messenger_logo_2020.svg.png" style="padding-right:10px;" /></a>
