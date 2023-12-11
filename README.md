@@ -13,7 +13,6 @@
 <a href="https://www.messenger.com/t/100036477218540/"><img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/640px-Facebook_Messenger_logo_2020.svg.png" style="padding-right:10px;" /></a>
 </br></br>
 
-
 ### Languages and Skills:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
