@@ -1,6 +1,5 @@
  <h1>Hi there, I'm Nikolaj 👋 </h1>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolajrask&label=Profile%20views&color=0e75b6&style=flat" alt="nikolajrask" /> </p>
 <a href="https://www.nikolajrask.com">My Website (not finished)</a>
  
