@@ -1,7 +1,7 @@
  <h1>Hi there, I'm Nikolaj 👋 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolajrask&label=Profile%20views&color=0e75b6&style=flat" alt="nikolajrask" /> </p>
-[![Follow](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+[![Follow](https://img.shields.io/github/followers/NikolajRask?label=Follow&style=social)](https://github.com/NikolajRask)
 
  
 ## I'm a Web Developer, Programmer and High School Student
