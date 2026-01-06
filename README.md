@@ -47,10 +47,9 @@ I started coding when I was 12 years old, and I have a lot of experience in Type
 
 ---
 
-### Current And Recent Projects 🟧 <a style="color: #f79616;text-decoration:none;">Ongoing<a> 🟩 <a style="color: #24c71c;text-decoration:none;">Finished</a> 
-* <a style="color: #24c71c" href="https://nikolajraskcasino.netlify.app/games/roulette.html">🟩 Casino Roulette Website (HTML + JavaScript)</a>
-* <a style="color: #f79616">🟧 Advanced Notes App (Node.js + Electron)</a>
-* <a style="color: #f79616">🟧 Personal Website (Vue.js + Tailwind CSS)</a>
+### Current And Recent Projects
+* <a style="color: #24c71c" href="https://nikolajraskcasino.netlify.app/games/roulette.html">- Casino Roulette Website (HTML + JavaScript)</a>
+* <a style="color: #f79616" href="https://fixmyparagraph.com">- Text Tool Directory Website</a>
   
 ---
   
